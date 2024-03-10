@@ -1,0 +1,30 @@
+Iteam: 1
+Name: Monitor
+Price: 90$
+Quantity: 4
+Selling: 9
+
+Iteam: 2
+Name: Case
+Price: 40$
+Quantity: 0
+Selling: 5
+
+Iteam: 3
+Name: Keyboard
+Price: 15$
+Quantity: 0
+Selling: 14
+
+Iteam: 4
+Name: Ram
+Price: 42
+Quantity: 0
+Selling: 8
+
+Iteam: 5
+Name: Motherboard
+Price: 90
+Quantity: 0
+Selling: 9
+
