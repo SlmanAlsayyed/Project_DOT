@@ -1,2 +1,2 @@
 # Project_DOT
-Simple Computer store
+Store management
